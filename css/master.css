@@ -1,0 +1,15 @@
+
+
+section #photo img
+{
+    width: 50px;
+}
+
+#introduction{
+    height: 50%;
+    width: 100%;
+}
+
+#introduction #character input{
+    margin-top: 10px;
+}

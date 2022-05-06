@@ -1,0 +1,46 @@
+#container{
+    margin: 250px 0 0 150px;
+}
+
+.card{
+    width: 250px;
+    height: 450px;
+    margin-left: 20px;
+    border: solid black 2px;
+    color:black;
+    text-align: center;
+    padding: 25px;
+}
+
+.card .logo {
+    font-size: 80px;
+    margin-bottom: -15px;
+}
+
+
+.card .btn{
+    color:white;
+    background-color: black;
+    font-size: 20px;
+    padding: 10px 30px;
+    border-radius: 250px;
+}
+
+#twitter:hover{
+    background-color: #1DA1F2;
+    color: #fff;
+
+}
+
+
+#instagram:hover{
+    background-color: #E1306C;
+    color: #fff;
+
+}
+
+
+#youtube:hover{
+    background-color: #FF0000;
+    color: white;
+}
